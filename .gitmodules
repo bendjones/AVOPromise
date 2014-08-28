@@ -1,0 +1,6 @@
+[submodule "AVOPromiseTests/Frameworks/Nimble"]
+	path = AVOPromiseTests/Frameworks/Nimble
+	url = git@github.com:Quick/Nimble.git
+[submodule "AVOPromiseTests/Frameworks/Quick"]
+	path = AVOPromiseTests/Frameworks/Quick
+	url = git@github.com:Quick/Quick.git
